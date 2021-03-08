@@ -23,7 +23,7 @@ import tf_slim
 
 arg_scope = tf_slim.arg_scope
 
-raise BaseException('aaaaaaaaaaaaaaaaaa')
+pass
 
 class BlocksTest(parameterized.TestCase, tf.test.TestCase):
 
