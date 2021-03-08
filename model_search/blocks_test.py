@@ -24,7 +24,7 @@ import tf_slim
 arg_scope = tf_slim.arg_scope
 
 pass; pass; pass
-print('aaaaaaaaaaaaaaaaaaaaaaaa save me pls')
+print('aaaaaaaaaaaaaaaaaaaaaaaa save me pls pls pls pls pls')
 
 class BlocksTest(parameterized.TestCase, tf.test.TestCase):
 
