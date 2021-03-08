@@ -23,7 +23,7 @@ import tf_slim
 
 arg_scope = tf_slim.arg_scope
 
-print('hello worlr')
+print('hellaaworlr')
 
 class BlocksTest(parameterized.TestCase, tf.test.TestCase):
 
